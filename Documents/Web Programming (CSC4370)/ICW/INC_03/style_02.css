@@ -1,0 +1,39 @@
+div {
+    position: relative;
+    display: inline-block;
+    background-color: rgb(0, 134, 218);
+}
+
+img {
+    display: block;
+    width: 400px;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.5);
+}
+
+.words {
+    font-family: impact;
+    font-size: 60px;
+}
+
+.first {
+    position: absolute;
+    top: 126px;
+    left: 196px;
+}
+
+.heart {
+    color: red;
+    font-size: 80px;
+    position: absolute;
+    top: 111px;
+    left: 226px;
+}
+
+.last {
+    position: absolute;
+    top: 188px;
+    left: 204px;
+}
